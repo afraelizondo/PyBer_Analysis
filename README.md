@@ -19,7 +19,7 @@ Next, we will discuss about the outcomes that this analysis produced.
 <img width="735" alt="Screen Shot 2022-11-11 at 12 09 27 PM" src="https://user-images.githubusercontent.com/113856917/201402655-d5634efe-b816-4dc7-b817-e0e9404e3570.png">
 
 As we can see in the figure 1, there are huge variations between the data of the type of cities. 
-If we compare the average fare per driver, we have a difference of approximately 10 dollars between urban and rural, this means, the more drivers, the lower rate because there is gonna be less demand, as outcome we will have that the company is offering a better service in the Urban area, having enough drivers to complete the rides, while in the Suburban and Rural areas, there is a lack of drivers, and this could mean that there is an area of opportunity for the company to expand and be able to satisfy the needs of the population of this zones. 
+If we compare the average fare per driver, we have a difference of approximately 10 dollars between urban and rural, this means, the more drivers, the lower rate because there is gonna be less demand, as outcome we will have that the company is offering a better service in the Urban area, having enough drivers to complete the rides, while in the Suburban and Rural areas, there is a lack of drivers, and this could mean that there is an area of opportunity for the company to expand and be able to satisfy the needs of the population of these zones. 
 
 ![Fig10](https://user-images.githubusercontent.com/113856917/201407000-efcbc08d-7005-490d-a7eb-2c30b3947adf.png)
 
