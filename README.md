@@ -5,11 +5,11 @@
 Pyber is a Python-based ridesharing app, we perform the current analysis to help this company to explore many types of visualizations. To achieve the assigned task, we wrote Python scripts with the help of Pandas libraries, Jupyter Notebook and Matplotlib,a platform for data visualization and graphical plotting library used for the creation of charts that showcase relationships between the data. 
 
 Our main data was divided in:
-- Type of city
-- Number of drivers
-- Number of riders
-- Percentage of total fares
-- Percentage of riders and drivers by type of city 
+- Type of city.
+- Number of drivers.
+- Number of riders.
+- Percentage of total fares.
+- Percentage of riders and drivers by type of city.
 
 Next, we will discuss about the outcomes that this analysis produced. 
 
